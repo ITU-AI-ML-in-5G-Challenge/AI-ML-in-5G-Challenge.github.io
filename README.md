@@ -6,8 +6,8 @@ The ITU AI/ML in 5G Challenge offers carefully curated problem statements, a mix
 Since the start of the Challenge in 2020, we have received more than 70 submissions to compete for the awards. There are four Challenges including AI/ML in 5G Challenge, GeoAI Challenge, tinyML Challenge and AI for Fusion Energy Challenge
 <div class="sidebar">
     <h3>Navigation</h3>
-    <ul>
 </div>
+   <ul>
         </li> <a href="https://challenge.aiforgood.itu.int/">AI/ML in 5G Challenge</a>
         <li><a href="#GeoAI Challenge">GeoAI Challenge</a></li>
         <li><a href="#TinyML Challenge">TinyML Challenge</a></li>
