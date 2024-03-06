@@ -7,8 +7,9 @@ Since the start of the Challenge in 2020, we have received more than 70 submissi
 <div class="sidebar">
     <h3>Navigation</h3>
     <ul>
-        <li><a href="#section1">Section 1</a></li>
-        <li><a href="#section2">Section 2</a></li>
-        <li><a href="#section3">Section 3</a></li>
+        <li><a href="#AI/ML in 5G Challenge">AI/ML in 5G Challenge</a></li>
+        <li><a href="#GeoAI Challenge">GeoAI Challeng</a></li>
+        <li><a href="#tinyML Challenge">tinyML Challenge</a></li>
+        <li><a href="#AI for Fusion Energy Challenge">AI for Fusion Energy Challenge</a></li>
     </ul>
 </div>
