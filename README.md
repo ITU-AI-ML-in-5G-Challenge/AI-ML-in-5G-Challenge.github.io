@@ -21,17 +21,4 @@ Since the start of the Challenge in 2020, we have received more than 70 submissi
         border-right: 1px solid #ccc;
         float: left;
     }
-
-    .sidebar h3 {
-        margin-top: 0;
-    }
-
-    .sidebar ul {
-        list-style-type: none;
-        padding: 0;
-    }
-
-    .sidebar ul li {
-        margin-bottom: 10px;
-    }
 </style>
