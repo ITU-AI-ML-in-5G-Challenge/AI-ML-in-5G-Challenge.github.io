@@ -7,8 +7,8 @@ Since the start of the Challenge in 2020, we have received more than 70 submissi
 <div class="sidebar">
     <h3>Navigation</h3>
     <ul>
-         </li> <a href="https://challenge.aiforgood.itu.int/">AI/ML in 5G Challenge</a>
-    </div>
+</div>
+        </li> <a href="https://challenge.aiforgood.itu.int/">AI/ML in 5G Challenge</a>
         <li><a href="#GeoAI Challenge">GeoAI Challenge</a></li>
         <li><a href="#TinyML Challenge">TinyML Challenge</a></li>
         <li><a href="#AI for Fusion Energy Challenge">AI for Fusion Energy Challenge</a></li>
