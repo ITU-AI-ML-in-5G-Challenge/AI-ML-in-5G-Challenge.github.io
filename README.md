@@ -9,7 +9,7 @@ Since the start of the Challenge in 2020, we have received more than 70 submissi
     <ul>
         <li><a href="#AI/ML in 5G Challenge">AI/ML in 5G Challenge</a></li>
         <li><a href="#GeoAI Challenge">GeoAI Challeng</a></li>
-        <li><a href="#tinyML Challenge">tinyML Challenge</a></li>
+        <li><a href="#TinyML Challenge">TinyML Challenge</a></li>
         <li><a href="#AI for Fusion Energy Challenge">AI for Fusion Energy Challenge</a></li>
     </ul>
 </div>
