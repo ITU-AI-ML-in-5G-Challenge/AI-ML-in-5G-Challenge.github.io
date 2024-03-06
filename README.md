@@ -13,3 +13,29 @@ Since the start of the Challenge in 2020, we have received more than 70 submissi
         <li><a href="#AI for Fusion Energy Challenge">AI for Fusion Energy Challenge</a></li>
     </ul>
 </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page with Sidebar</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="sidebar">
+        <!-- Sidebar content goes here -->
+        <h3>Sidebar</h3>
+        <ul>
+            <li><a href="#">Link 1</a></li>
+            <li><a href="#">Link 2</a></li>
+            <li><a href="#">Link 3</a></li>
+        </ul>
+    </div>
+
+    <div class="content">
+        <!-- Main content goes here -->
+        <h1>Main Content</h1>
+        <p>This is the main content of the page.</p>
+    </div>
+</body>
+</html>
