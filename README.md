@@ -13,3 +13,25 @@ Since the start of the Challenge in 2020, we have received more than 70 submissi
         <li><a href="#AI for Fusion Energy Challenge">AI for Fusion Energy Challenge</a></li>
     </ul>
 </div>
+<style>
+    .sidebar {
+        width: 200px;
+        background-color: #f0f0f0;
+        padding: 20px;
+        border-right: 1px solid #ccc;
+        float: left;
+    }
+
+    .sidebar h3 {
+        margin-top: 0;
+    }
+
+    .sidebar ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    .sidebar ul li {
+        margin-bottom: 10px;
+    }
+</style>
