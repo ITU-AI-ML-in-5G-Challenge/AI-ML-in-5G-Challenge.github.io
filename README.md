@@ -9,11 +9,7 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
    <ul>
         <li> <p><a href="https://aiforgood.itu.int/about-ai-for-good/aiml-in-5g-challenge/">AI/ML in 5G Challenge</a></p></li>
           <h4>Problem Statements</h4>
-<p>Problem statements for the years: 
-    <span>2023, 2022, 2021</span>.
-</p>
-       
-                <ul>
+          <ul>
           <li> <p><a href= "https://challenge.aiforgood.itu.int/match/matchitem/78?_ga=2.120503048.1610249808.1709728244-129967155.1709728244">O&M Fault Impact Analysis</a></p></li>
           <li>Depth Map Estimation in 6G</li>
           <li>Multi-environment QoS prediction</li>
@@ -22,7 +18,7 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
           <li>5G-Energy Consumption Modelling</li>
           <li>Network failure using digital twins</li>
           <li>Network Traffic Scenario Prediction</li>
-               </ul>
+         </ul>
        <ul>
           <ul>
           <li>2023</li>
