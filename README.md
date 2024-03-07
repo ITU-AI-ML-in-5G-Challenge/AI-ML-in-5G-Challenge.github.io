@@ -15,7 +15,25 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
           <li>2020</li>
            </ul>
         <li> <p><a href="https://aiforgood.itu.int/about-ai-for-good/geoai-challenge">GeoAI Challenge</a></p></li> 
-        <li><a href="#TinyML Challenge">TinyML Challenge</a></li>
-        <li><a href="#AI for Fusion Energy Challenge">AI for Fusion Energy Challenge</a></li>
+              <ul>
+          <li>2023</li>
+          <li>2022</li>
+          <li>2021</li>
+          <li>2020</li>
+           </ul>
+        <li> <p><a href="https://aiforgood.itu.int/about-ai-for-good/tinyml-challenge/">TinyML Challenge</a></p> </li>
+               <ul>
+          <li>2023</li>
+          <li>2022</li>
+          <li>2021</li>
+          <li>2020</li>
+           </ul>
+        <li> <p><a href="https://aiforgood.itu.int/about-ai-for-good/ai-for-fusion-energy-challenge/">AI for Fusion Energy Challenge</a></p> </li> 
+             <ul>
+          <li>2023</li>
+          <li>2022</li>
+          <li>2021</li>
+          <li>2020</li>
+           </ul>
     </ul>
 </div>
