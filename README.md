@@ -1,4 +1,4 @@
-# AI-ML-in-5G-Challenge
+# ITU AI/ML Challenge
 <img width="599" alt="Screenshot 2024-03-06 at 13 54 40" src="https://github.com/Carolynshexiu/AI-ML-in-5G-Challenge.github.io/assets/162329150/b9c4c891-7080-4a0d-9575-9b0d19ac574e">
 
 
