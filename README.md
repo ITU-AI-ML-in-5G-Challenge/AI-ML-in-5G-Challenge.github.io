@@ -33,9 +33,22 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
   <summary>2021</summary>
   
   <ul>
-    <li>Item 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
+<li>35. Combinatorial Optimization Challenge: Delivery route optimization ---<strong>curated by ZTE</strong></li>
+<li>34. Federated Learning for Spatial Reuse in a multi-BSS (Basic Service Set) scenario ---<strong>curated by UPF</strong></li>
+<li>33. Forecasting Model for Service Allocation Network Using Traffic Recognition ---<strong>curated by SPbSUT</strong></li>
+<li>32. Graph Neural Networking Challenge 2021: Creating a Scalable Network Digital Twin ---<strong>curated by BNN-UPC</strong></li>
+<li>31. Lightning-Fast Modulation Classification with Hardware-Efficient Neural Networks ---<strong>curated by Xilinx</strong></li>
+<li>30. Location estimation using RSSI of wireless LAN ---<strong>curated by RISING</strong></li>
+<li>29. ML5G-PHY-Localization: Multidevice localization with mmWave signals in a factory environment ---<strong>curated by NC State University</strong></li>
+<li>28. ML5G-PHY-Reinforcement learning: scheduling and resource allocation ---<strong>curated by UFPA</strong></li>
+<li>27. Network anomaly detection based on logs ---<strong>curated by China Unicom</strong></li>
+<li>26. Network failure detection and root cause analysis in 5GC by NFV-based test environment ---<strong>curated by KDDI</strong></li>
+<li>25. Build-a-thon(PoC) Network resource allocation for emergency management based on closed loop analysis ---<strong>curated by ITU Focus Group on Autonomous Networks (FG-AN)</strong></li>
+<li>24. Radio Link Failure Prediction ---<strong>curated by Turkcell</strong></li>
+<li>23. RF-Sensor Based Human Activity Recognition ---<strong>curated by The University of Alabama</strong></li>
+<li>22. WALDO (Wireless Artificial intelligence Location DetectiOn): sensing using mmWave communications and ML. ---<strong>curated by NIST</strong></li>
+
+    
   </ul>
 </details>
 
