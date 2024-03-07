@@ -8,12 +8,13 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
     <h3>Challenge themes and problem statements</h3>
    <ul>
         <li><a href="#AI/ML in 5G Challenge">AI/ML in 5G Challenge</a></li>
-        [4] 2023 pro          
-       [3]
-       [2]2020
-       [1] 2020 proble (title
+           <ul>
+          <li>2023</li>
+          <li>2022</li>
+          <li>2021</li>
+          <li>2020</li>
+           </ul>
         <li><a href="#GeoAI Challenge">GeoAI Challenge</a></li>
-       
         <li><a href="#TinyML Challenge">TinyML Challenge</a></li>
         <li><a href="#AI for Fusion Energy Challenge">AI for Fusion Energy Challenge</a></li>
     </ul>
