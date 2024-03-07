@@ -4,22 +4,78 @@
 
 The ITU AI/ML Challenge offers carefully curated problem statements, a mix of real-world and simulated data, technical webinars, mentoring, and hands-on sessions. Teams participating in the Challenge enable, create, train and deploy ML models for various domains including communication networks. This enables participants to not only showcase their talent, test their concepts on real data and real-world problems, and compete for global recognition including prize money and certificates, but also enter the world of ITU standards by mapping their solutions to our specifications.
 Since the start of the Challenge in 2020, we have hosted more than xx competitions (problem statements). There are several Challenge categories that have been hosted until now including AI/ML in 5G Challenge, GeoAI Challenge, tinyML Challenge and AI for Fusion Energy Challenge.
+
+<h2>Challenge themes and problem statements</h2>
+<p><a href="https://aiforgood.itu.int/about-ai-for-good/aiml-in-5g-challenge/">AI/ML in 5G Challenge</a></p>
+  <ul>
+    
+<details>
+  <summary>2023</summary>
+  
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ul>
+</details>
+
+<details>
+  <summary>2022</summary>
+  
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ul>
+</details>
+
+<details>
+  <summary>2021</summary>
+  
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ul>
+</details>
+
+<details>
+  <summary>2020</summary>
+  
+  <ul>
+
+<li>21. 5G+AI (Smart Transportation) ---<strong>curated by JNU,IIT/Delhi</strong></li>
+<li>20. 5G+AI+AR (Zhejiang Division) ---<strong> curated by China Unicom</strong></li>
+<li>19. Analysis on route information failure in IP core networks by NFV-based test environment ---<strong>curated by KDDI</strong> </li>
+<li>18. Compression of Deep Learning models ---<strong>curated by ZTE</strong></li>
+<li>17. Demonstration of MLFO capabilities via reference implementations ---<strong>curated by Letterkenny Institute of Technology, Co. Donegal</strong></li>
+<li>16. DNN Inference Optimization Challenges ---<strong>curated by ADLIK, ZTE</strong></li>
+<li>15. Energy-Saving Prediction of Base Station Cells in Mobile Communication Network ---<strong>curated by China Unicom</strong></li>
+<li>14. Fault Localization of Loop Network Devices based on MEC Platform ---<strong>curated by China Unicom</strong></li>
+<li>13. Improving the capacity of IEEE 802.11 WLANs through machine learning ---<strong>curated by UPF</strong></li>
+<li>12. ML5G-PHY -Beam-Selection: Machine Learning Applied to the Physical Layer of Millimeter-Wave MIMO Sytems ---<strong>curated by UFPA</strong></li>
+<li>11. ML5G-PHY- Channel Estimation @NCSU: Machine Learning Applied to the Physical Layer of Millimeter-Wave MIMO Systems at North Carolina State University ---<strong> curated by NC State University</strong></li>
+<li>10. Network State Estimation by Analyzing Raw Video Data ---<strong> curated by NEC</strong></li>
+<li>9. Network topology optimization ---<strong> curated by China Mobile</strong></li>
+<li>8. Out of Service(OOS) Alarm Prediction of 4/5G Network Base Station ---<strong> curated by China Mobile</strong></li>
+<li>7. Privacy Preserving AI/ML in 5G networks for healthcare applications ---<strong> curated by C-DOT, IIT/Delhi</strong></li>
+<li>6. Using Weather Info for Radio Link Failure Prediction Challenge ---<strong> curated by Turkcell</strong></li>
+<li>5. Shared Experience Using 5G+AI (3D Augmented + Virtual Reality) ---<strong> curated by Hike, IIT/Delhi</strong></li>
+<li>4. Traffic recognition and long-term traffic forecasting based on AI algorithms and metadata for 5G/IMT-2020 and beyond ---<strong> curated by SPbSUT</strong></li>
+<li>3. Graph Neural Networking Challenge ---<strong> curated by BNN, UPC</strong></li>
+<li>2. Improving experience and enhancing immersiveness of Video conferencing and collaboration ---<strong> curated by Dview</strong></li>
+<li>1. 5G+ML/AI (Dynamic Spectrum Access) ---<strong> curated by IITD</strong></li>
+   
+  </ul>
+</details>
+
+---------------------------------------------
 <div class="sidebar">
     <h3>Challenge themes and problem statements</h3>
    <ul>
         <li> <p><a href="https://aiforgood.itu.int/about-ai-for-good/aiml-in-5g-challenge/">AI/ML in 5G Challenge</a></p></li>
          <h4 class="collapsible">Problem Statements</h4>
-<div class="
-    <ul>
-          <li> <p><a href= "https://challenge.aiforgood.itu.int/match/matchitem/78?_ga=2.120503048.1610249808.1709728244-129967155.1709728244">O&M Fault Impact Analysis</a></p></li>
-          <li>Depth Map Estimation in 6G</li>
-          <li>Multi-environment QoS prediction</li>
-          <li>SDN Intrusion & Vulnerability Detection</li>
-          <li>Graph Neural Networking Challenge</li>
-          <li>5G-Energy Consumption Modelling</li>
-          <li>Network failure using digital twins</li>
-          <li>Network Traffic Scenario Prediction</li>
-         </ul>">
+<div class=" ">
           <ul>
           <li> <p><a href= "https://challenge.aiforgood.itu.int/match/matchitem/78?_ga=2.120503048.1610249808.1709728244-129967155.1709728244">O&M Fault Impact Analysis</a></p></li>
           <li>Depth Map Estimation in 6G</li>
@@ -66,3 +122,15 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
            </ul>
     </ul>
 </div>
+
+<details>
+  <summary>Click to expand</summary>
+  
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ul>
+</details>
+
+
