@@ -9,7 +9,7 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
    <ul>
         <li><a href="#AI/ML in 5G Challenge">AI/ML in 5G Challenge</a></li>
            <ul>
-          <li> <p><a href="https://www.itu.int/en/ITU-T/AI/challenge/2020/Pages/default.aspx">2023</a></p> 2023</li>
+          <li> <p><a href="https://www.itu.int/en/ITU-T/AI/challenge/2020/Pages/default.aspx">2023</a></p></li>
           <li>2022</li>
           <li>2021</li>
           <li>2020</li>
