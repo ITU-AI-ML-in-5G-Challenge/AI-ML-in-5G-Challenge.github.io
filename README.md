@@ -54,8 +54,9 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
           <li>2022</li>
           <li>2021</li>
           <li>2020</li>
-           </ul>
+               </ul>
         <li> <p><a href="https://aiforgood.itu.int/about-ai-for-good/ai-for-fusion-energy-challenge/">AI for Fusion Energy Challenge</a></p> </li>  
+     <ul>
        <h4> problem statements </h4>
              <ul>
           <li>2023</li>
