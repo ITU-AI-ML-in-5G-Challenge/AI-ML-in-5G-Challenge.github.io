@@ -48,7 +48,7 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
           <li>2020</li>
            </ul>
         <li> <p><a href="https://aiforgood.itu.int/about-ai-for-good/tinyml-challenge/">TinyML Challenge</a></p> </li>
-           
+       <ul>    
                <ul>
           <li>2023</li>
           <li>2022</li>
