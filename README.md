@@ -23,9 +23,20 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
   <summary>2022</summary>
   
   <ul>
-    <li>Item 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
+<li>49. BYOC: Build your own Closed loop ---<strong>curated by ITU Focus Group Autonomous Networks (FG-AN)</strong></li>
+<li>48. Classification of Home Network Users to Improve User Experience ---<strong>curated by ZTE</strong></li>
+<li>47. Depth Map Estimation in 6G mmWave systems ---<strong>curated by NIST</strong></li>
+<li>46. Federated Traffic Prediction for 5G and Beyond ---<strong>curated by CTTC (Centre Tecnològic de Telecomunicacions de Catalunya)</strong></li>
+<li>45. Graph Neural Networking Challenge 2022: Improving Network Digital Twins through Data-centric AI ---<strong>curated by BNN-UPC</strong></li>
+<li>44. I/Q-based Beam Classification with the DeepBeam Dataset ---<strong>curated by Northeastern University</strong></li>
+<li>43. Location Estimation Using RSSI of Wireless LAN in NLoS Environment ---<strong>curated by RISING</strong></li>
+<li>42. Machine Learning for Throughput Prediction in Coordinated IEEE 802.11be Wi-Fi networks ---<strong>curated by UPF</strong></li>
+<li>41. Multi Modal Beam Prediction Challenge 2022: Towards Generalization ---<strong>curated by Arizona State University</strong></li>
+<li>40. Network failure prediction on CNFs 5GC with Linux eBPF ---<strong>curated by KDDI</strong></li>
+<li>39. Next-Gen WiFi Throughput Prediction Challenge ---<strong>curated by ITU, UPF</strong></li>
+<li>38. Non-linear Power Amplifier Behavioral Modeling to achieve higher energy efficiency in 5G RAN ---<strong>curated by ZTE</strong></li>
+<li>37. "Slidin' videos": Slide Transition Detection and Title Extraction in Lecture Videos ---<strong>curated by ITU</strong></li>
+<li>36. Synthetic Observability Data Generation using GANs ---<strong>curated by LF Networking</strong></li>    
   </ul>
 </details>
 
