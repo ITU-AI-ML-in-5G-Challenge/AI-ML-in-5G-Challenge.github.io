@@ -19,7 +19,7 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
           <li>Network failure using digital twins</li>
           <li>Network Traffic Scenario Prediction</li>
                </ul>
-       
+       <ul>
           <ul>
           <li>2023</li>
           <li>2022</li>
