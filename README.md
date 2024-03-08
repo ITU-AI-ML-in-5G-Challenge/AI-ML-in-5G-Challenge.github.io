@@ -6,7 +6,7 @@ The ITU AI/ML Challenge offers carefully curated problem statements, a mix of re
 Since the start of the Challenge in 2020, we have hosted more than xx competitions (problem statements). There are several Challenge categories that have been hosted until now including AI/ML in 5G Challenge, GeoAI Challenge, tinyML Challenge and AI for Fusion Energy Challenge.
 
 <h2>Challenge themes and problem statements</h2>
-     <p><a href="https://aiforgood.itu.int/about-ai-for-good/aiml-in-5g-challenge/">AI/ML in 5G Challenge</a></p>
+<p><a href="https://aiforgood.itu.int/about-ai-for-good/aiml-in-5g-challenge/">AI/ML in 5G Challenge</a></p>
  <ul>
     
 <details>
