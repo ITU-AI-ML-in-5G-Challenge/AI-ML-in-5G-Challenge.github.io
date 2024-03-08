@@ -133,7 +133,7 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
   <summary>2023</summary>
   
   <ul>
-    <li>1. Multi-Machine Disruption Prediction Challenge for Fusion Energy by ITU</li>
+    <li>1. Multi-Machine Disruption Prediction Challenge for Fusion Energy ---<strong>curated by ITU, IAEA, PSFC, HUAZHONG UNIVERSITY OF SCIENCE AND TECHNOLOGY</strong></li>
   </ul>
 </details>
 
