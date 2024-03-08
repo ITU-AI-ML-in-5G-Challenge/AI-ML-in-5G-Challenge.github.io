@@ -6,16 +6,28 @@ The ITU AI/ML Challenge offers carefully curated problem statements, a mix of re
 Since the start of the Challenge in 2020, we have hosted more than xx competitions (problem statements). There are several Challenge categories that have been hosted until now including AI/ML in 5G Challenge, GeoAI Challenge, tinyML Challenge and AI for Fusion Energy Challenge.
 
 <h2>Challenge themes and problem statements</h2>
-<p><a href="https://aiforgood.itu.int/about-ai-for-good/aiml-in-5g-challenge/">AI/ML in 5G Challenge</a></p>
-  <ul>
+     <p><a href="https://aiforgood.itu.int/about-ai-for-good/aiml-in-5g-challenge/">AI/ML in 5G Challenge</a></p>
+ <ul>
     
 <details>
   <summary>2023</summary>
   
   <ul>
-    <li>Item 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
+
+<li>62. AI/ML for 5G-Energy Consumption Modelling  ---<strong>curated by Huawei</strong></li>
+<li>61. Depth Map Estimation in 6G mmWave systems  ---<strong>curated by NIST</strong></li>
+<li>60. Fault Impact Analysis: Towards Service-Oriented Network Operation & Maintenance  ---<strong>curated by Huawei</strong></li>
+<li>59. Graph Neural Networking Challenge 2023 - Creating a Network Digital Twin with Real Network Data  ---<strong>curated by BNN-UPC</strong></li>
+<li>58. Intrusion and Vulnerability Detection in Software-Defined Networks (SDN)  ---<strong>curated by ULAK Comm.</strong></li>
+<li>57. Multi-environment automotive QoS prediction  ---<strong>curated by Fraunhofer HHI</strong></li>
+<li>56. Network Traffic Scenario Prediction Challenge  ---<strong>curated by ZTE</strong></li>
+<li>55. QoS Prediction Challenge  ---<strong>curated by Fraunhofer HHI</strong></li>
+<li>53. Title Extraction in Lecture Slides Challenge  ---<strong>curated by ITU</strong></li>
+<li>53. Network failure classification model using network digital twin  ---<strong>curated by KDDI</strong></li>
+<li>52. Multi Modal V2V Beam Prediction Challenge 2023  ---<strong>curated by Wireless Intelligence Lab - Arizona State University</strong></li>
+<li>51. 3D Location Estimation Using RSSI of Wireless LAN  ---<strong>curated by RISING - JAPAN</strong></li>
+<li>50. Build-a-thon 2023  ---<strong>curated by ITU Focus Group on Autonomous Networks (FG-AN)</strong></li>
+  
   </ul>
 </details>
 
@@ -93,68 +105,63 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
   </ul>
 </details>
 
----------------------------------------------
-<div class="sidebar">
-    <h3>Challenge themes and problem statements</h3>
-   <ul>
-        <li> <p><a href="https://aiforgood.itu.int/about-ai-for-good/aiml-in-5g-challenge/">AI/ML in 5G Challenge</a></p></li>
-         <h4 class="collapsible">Problem Statements</h4>
-<div class=" ">
-          <ul>
-          <li> <p><a href= "https://challenge.aiforgood.itu.int/match/matchitem/78?_ga=2.120503048.1610249808.1709728244-129967155.1709728244">O&M Fault Impact Analysis</a></p></li>
-          <li>Depth Map Estimation in 6G</li>
-          <li>Multi-environment QoS prediction</li>
-          <li>SDN Intrusion & Vulnerability Detection</li>
-          <li>Graph Neural Networking Challenge</li>
-          <li>5G-Energy Consumption Modelling</li>
-          <li>Network failure using digital twins</li>
-          <li>Network Traffic Scenario Prediction</li>
-         </ul>
-       <ul>
-       </ul>
-       </div>
-          <ul>
-          <li>2023</li>
-          <li>2022</li>
-          <li>2021</li>
-          <li>2020</li>
-           </ul>
-        <li> <p><a href="https://aiforgood.itu.int/about-ai-for-good/geoai-challenge">GeoAI Challenge</a></p></li> 
-           <h4>Problem statements</h4>
-              <ul>
-          <li>2023</li>
-          <li>2022</li>
-          <li>2021</li>
-          <li>2020</li>
-           </ul>
-        <li> <p><a href="https://aiforgood.itu.int/about-ai-for-good/tinyml-challenge/">TinyML Challenge</a></p> </li>
-       <ul>    
-               <ul>
-          <li>2023</li>
-          <li>2022</li>
-          <li>2021</li>
-          <li>2020</li>
-               </ul>
-        <li> <p><a href="https://aiforgood.itu.int/about-ai-for-good/ai-for-fusion-energy-challenge/">AI for Fusion Energy Challenge</a></p> </li>  
-     <ul>
-       <h4> problem statements </h4>
-             <ul>
-          <li>2023</li>
-          <li>2022</li>
-          <li>2021</li>
-          <li>2020</li>
-           </ul>
-    </ul>
-</div>
+<p><a href="https://aiforgood.itu.int/about-ai-for-good/geoai-challenge">GeoAI Challenge</a></p>
+<details>
+  <summary>2023</summary>
+
+  <ul>
+<li>8. GeoAI Challenge Location Mention Recognition from Social Media --- <strong> curated by QCRI, QU, Qen Labs Inc.</strong></li>
+<li>7. GeoAI Challenge Estimating Soil Parameters from Hyperspectral Images ---<strong> curated by ESA (European Space Agency)</strong></li>
+<li>6. GeoAI Challenge for Air Pollution Susceptibility Mapping ---<strong> curated by   GEOlab at Polytechnic di Milano</strong></li>
+<li>5. GeoAI Challenge for Cropland Mapping ---<strong> curated by UNODC, FAO</strong></li>
+<li>4. GeoAI Challenge for Landslide Susceptibility Mapping ---<strong> curated by GEOlab at Polytechnic di Milano</strong></li>
+  </ul>
+</details>
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>2022</summary>
   
   <ul>
-    <li>Item 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
+<li>3. Cropland mapping with satellite imagery</li>
+<li>2. Location Mention Recognition from Social Media Crisis-related Text</li>
+<li>1. School mapping with big data</li>
+  </ul>
+</details>
+<p><a href="https://aiforgood.itu.int/about-ai-for-good/ai-for-fusion-energy-challenge/">AI for Fusion Energy Challenge</a></p>
+
+<details>
+  <summary>2023</summary>
+  
+  <ul>
+    <li>1. Multi-Machine Disruption Prediction Challenge for Fusion Energy by ITU</li>
   </ul>
 </details>
 
 
+<p><a href="https://aiforgood.itu.int/about-ai-for-good/tinyml-challenge/">TinyML Challenge</a></p> 
+
+ <details>
+  <summary>2024</summary>
+  
+  <ul>
+<li>5. Next-Gen tinyML Smart Weather Station Challenge ---<strong> curated by CSEM</strong></li>
+  </ul>
+</details>
+  <details>
+  <summary>2023</summary>
+  
+  <ul>
+<li>4. Next-Gen tinyML Smart Weather Station ---<strong> curated by CSEM, tinyML Foundation</strong></li>
+<li>3. Scalable and High-Performance TinyML Solutions for Plant Disease Detection ---<strong> curated by ITU</strong></li>
+<li>2. Scalable and High-Performance TinyML Solutions for Wildlife Monitoring ---<strong> curated by ITU</strong></li>
+  </ul>
+</details>
+
+<details>
+  <summary>2022</summary>
+  
+  <ul>
+    <li>1. Smart Weather Station Challenge ---<strong></li>
+
+  </ul>
+</details>
