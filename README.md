@@ -7,13 +7,10 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 
 <h2>Challenge themes and problem statements</h2>
 <p><a href="https://aiforgood.itu.int/about-ai-for-good/aiml-in-5g-challenge/">AI/ML in 5G Challenge</a></p>
- <ul>
-    
+<ul>   
 <details>
   <summary>2023</summary>
-  
   <ul>
-
 <li>62. AI/ML for 5G-Energy Consumption Modelling  ---<strong>curated by Huawei</strong></li>
 <li>61. Depth Map Estimation in 6G mmWave systems  ---<strong>curated by NIST</strong></li>
 <li>60. Fault Impact Analysis: Towards Service-Oriented Network Operation & Maintenance  ---<strong>curated by Huawei</strong></li>
@@ -27,13 +24,10 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 <li>52. Multi Modal V2V Beam Prediction Challenge 2023  ---<strong>curated by Wireless Intelligence Lab - Arizona State University</strong></li>
 <li>51. 3D Location Estimation Using RSSI of Wireless LAN  ---<strong>curated by RISING - JAPAN</strong></li>
 <li>50. Build-a-thon 2023  ---<strong>curated by ITU Focus Group on Autonomous Networks (FG-AN)</strong></li>
-  
   </ul>
 </details>
-
 <details>
   <summary>2022</summary>
-  
   <ul>
 <li>49. BYOC: Build your own Closed loop ---<strong>curated by ITU Focus Group Autonomous Networks (FG-AN)</strong></li>
 <li>48. Classification of Home Network Users to Improve User Experience ---<strong>curated by ZTE</strong></li>
@@ -51,10 +45,8 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 <li>36. Synthetic Observability Data Generation using GANs ---<strong>curated by LF Networking</strong></li>    
   </ul>
 </details>
-
 <details>
   <summary>2021</summary>
-  
   <ul>
 <li>35. Combinatorial Optimization Challenge: Delivery route optimization ---<strong>curated by ZTE</strong></li>
 <li>34. Federated Learning for Spatial Reuse in a multi-BSS (Basic Service Set) scenario ---<strong>curated by UPF</strong></li>
@@ -69,17 +61,12 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 <li>25. Build-a-thon(PoC) Network resource allocation for emergency management based on closed loop analysis ---<strong>curated by ITU Focus Group on Autonomous Networks (FG-AN)</strong></li>
 <li>24. Radio Link Failure Prediction ---<strong>curated by Turkcell</strong></li>
 <li>23. RF-Sensor Based Human Activity Recognition ---<strong>curated by The University of Alabama</strong></li>
-<li>22. WALDO (Wireless Artificial intelligence Location DetectiOn): sensing using mmWave communications and ML. ---<strong>curated by NIST</strong></li>
-
-    
+<li>22. WALDO (Wireless Artificial intelligence Location DetectiOn): sensing using mmWave communications and ML. ---<strong>curated by NIST</strong></li>  
   </ul>
 </details>
-
 <details>
-  <summary>2020</summary>
-  
+  <summary>2020</summary>  
   <ul>
-
 <li>21. 5G+AI (Smart Transportation) ---<strong>curated by JNU,IIT/Delhi</strong></li>
 <li>20. 5G+AI+AR (Zhejiang Division) ---<strong> curated by China Unicom</strong></li>
 <li>19. Analysis on route information failure in IP core networks by NFV-based test environment ---<strong>curated by KDDI</strong> </li>
@@ -100,15 +87,14 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 <li>4. Traffic recognition and long-term traffic forecasting based on AI algorithms and metadata for 5G/IMT-2020 and beyond ---<strong> curated by SPbSUT</strong></li>
 <li>3. Graph Neural Networking Challenge ---<strong> curated by BNN, UPC</strong></li>
 <li>2. Improving experience and enhancing immersiveness of Video conferencing and collaboration ---<strong> curated by Dview</strong></li>
-<li>1. 5G+ML/AI (Dynamic Spectrum Access) ---<strong> curated by IITD</strong></li>
-   
+<li>1. 5G+ML/AI (Dynamic Spectrum Access) ---<strong> curated by IITD</strong></li>   
   </ul>
 </details>
-
+</ul>
 <p><a href="https://aiforgood.itu.int/about-ai-for-good/geoai-challenge">GeoAI Challenge</a></p>
-<details>
+<ul>
+<details> 
   <summary>2023</summary>
-
   <ul>
 <li>8. GeoAI Challenge Location Mention Recognition from Social Media --- <strong> curated by QCRI, QU, Qen Labs Inc.</strong></li>
 <li>7. GeoAI Challenge Estimating Soil Parameters from Hyperspectral Images ---<strong> curated by ESA (European Space Agency)</strong></li>
@@ -117,51 +103,44 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 <li>4. GeoAI Challenge for Landslide Susceptibility Mapping ---<strong> curated by GEOlab at Polytechnic di Milano</strong></li>
   </ul>
 </details>
-
 <details>
-  <summary>2022</summary>
-  
+  <summary>2022</summary> 
   <ul>
 <li>3. Cropland mapping with satellite imagery</li>
 <li>2. Location Mention Recognition from Social Media Crisis-related Text</li>
 <li>1. School mapping with big data</li>
   </ul>
 </details>
+</ul>
 <p><a href="https://aiforgood.itu.int/about-ai-for-good/ai-for-fusion-energy-challenge/">AI for Fusion Energy Challenge</a></p>
-
+<ul>
 <details>
   <summary>2023</summary>
-  
   <ul>
     <li>1. Multi-Machine Disruption Prediction Challenge for Fusion Energy ---<strong>curated by ITU, IAEA, PSFC, HUAZHONG UNIVERSITY OF SCIENCE AND TECHNOLOGY</strong></li>
   </ul>
 </details>
-
-
+</ul>
 <p><a href="https://aiforgood.itu.int/about-ai-for-good/tinyml-challenge/">TinyML Challenge</a></p> 
-
+<ul>
  <details>
   <summary>2024</summary>
-  
-  <ul>
+ <ul>
 <li>5. Next-Gen tinyML Smart Weather Station Challenge ---<strong> curated by CSEM</strong></li>
-  </ul>
+ </ul>
 </details>
   <details>
   <summary>2023</summary>
-  
   <ul>
 <li>4. Next-Gen tinyML Smart Weather Station ---<strong> curated by CSEM, tinyML Foundation</strong></li>
 <li>3. Scalable and High-Performance TinyML Solutions for Plant Disease Detection ---<strong> curated by ITU</strong></li>
 <li>2. Scalable and High-Performance TinyML Solutions for Wildlife Monitoring ---<strong> curated by ITU</strong></li>
   </ul>
 </details>
-
 <details>
   <summary>2022</summary>
-  
   <ul>
-    <li>1. Smart Weather Station Challenge ---<strong></li>
-
+    <li>1. Smart Weather Station Challenge ---<strong>   </strong></li>
   </ul>
 </details>
+</ul>
