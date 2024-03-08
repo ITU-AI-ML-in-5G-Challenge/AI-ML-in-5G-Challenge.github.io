@@ -141,7 +141,7 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 <details>
   <summary>2022</summary>
   <ul>
-    <li>1. Smart Weather Station Challenge ---<strong>   </strong></li>
+    <li>1. Smart Weather Station Challenge ---<strong>curated by TinyML Foundation</strong></li>
   </ul>
 </details>
 </ul>
