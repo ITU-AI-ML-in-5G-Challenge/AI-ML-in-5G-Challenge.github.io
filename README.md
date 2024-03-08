@@ -113,15 +113,6 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
   </ul>
 </details>
 </ul>
-<p><a href="https://aiforgood.itu.int/about-ai-for-good/ai-for-fusion-energy-challenge/">AI for Fusion Energy Challenge</a></p>
-<ul>
-<details>
-  <summary>2023</summary>
-  <ul>
-    <li>1. Multi-Machine Disruption Prediction Challenge for Fusion Energy ---<strong>curated by ITU, IAEA, PSFC, HUAZHONG UNIVERSITY OF SCIENCE AND TECHNOLOGY</strong></li>
-  </ul>
-</details>
-</ul>
 <p><a href="https://aiforgood.itu.int/about-ai-for-good/tinyml-challenge/">TinyML Challenge</a></p> 
 <ul>
  <details>
@@ -142,6 +133,15 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
   <summary>2022</summary>
   <ul>
     <li>1. Smart Weather Station Challenge ---<strong>curated by TinyML Foundation</strong></li>
+  </ul>
+</details>
+</ul>
+<p><a href="https://aiforgood.itu.int/about-ai-for-good/ai-for-fusion-energy-challenge/">AI for Fusion Energy Challenge</a></p>
+<ul>
+<details>
+  <summary>2023</summary>
+  <ul>
+    <li>1. Multi-Machine Disruption Prediction Challenge for Fusion Energy ---<strong>curated by ITU, IAEA, PSFC, HUAZHONG UNIVERSITY OF SCIENCE AND TECHNOLOGY</strong></li>
   </ul>
 </details>
 </ul>
