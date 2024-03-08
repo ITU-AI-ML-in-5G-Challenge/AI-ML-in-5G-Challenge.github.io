@@ -96,19 +96,20 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 <details> 
   <summary>2023</summary>
   <ul>
-<li>8. GeoAI Challenge Location Mention Recognition from Social Media --- <strong> curated by QCRI, QU, Qen Labs Inc.</strong></li>
-<li>7. GeoAI Challenge Estimating Soil Parameters from Hyperspectral Images ---<strong> curated by ESA (European Space Agency)</strong></li>
-<li>6. GeoAI Challenge for Air Pollution Susceptibility Mapping ---<strong> curated by   GEOlab at Polytechnic di Milano</strong></li>
-<li>5. GeoAI Challenge for Cropland Mapping ---<strong> curated by UNODC, FAO</strong></li>
-<li>4. GeoAI Challenge for Landslide Susceptibility Mapping ---<strong> curated by GEOlab at Polytechnic di Milano</strong></li>
+<li>9. GeoAI Challenge Location Mention Recognition from Social Media --- <strong> curated by QCRI, QU, Qen Labs Inc.</strong></li>
+<li>8. GeoAI Challenge Estimating Soil Parameters from Hyperspectral Images ---<strong> curated by ESA (European Space Agency)</strong></li>
+<li>7. GeoAI Challenge for Air Pollution Susceptibility Mapping ---<strong> curated by   GEOlab at Polytechnic di Milano</strong></li>
+<li>6. GeoAI Challenge for Cropland Mapping ---<strong> curated by UNODC, FAO</strong></li>
+<li>5. GeoAI Challenge for Landslide Susceptibility Mapping ---<strong> curated by GEOlab at Polytechnic di Milano</strong></li>
   </ul>
 </details>
 <details>
   <summary>2022</summary> 
   <ul>
-<li>3. Cropland mapping with satellite imagery</li>
-<li>2. Location Mention Recognition from Social Media Crisis-related Text</li>
-<li>1. School mapping with big data</li>
+<li>4.IndabaX Tanzania: Location Mention Recognition from Social Media Crisis-related Text ---<strong> curated by ITU and Qatar University</strong></li>
+<li>3. Cropland mapping with satellite imagery ---<strong> curated by FAO</strong></li>
+<li>2. Location Mention Recognition from Social Media Crisis-related Text ---<strong> curated by Qatar Computing Research Institute (QCRI, HBKU), and Qatar University (QU)</strong></li>
+<li>1. School mapping with big data ---<strong> curated by UNICEF</strong></li>
   </ul>
 </details>
 </ul>
