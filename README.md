@@ -1,12 +1,13 @@
 # ITU AI/ML Challenge
 ![ai for good](https://github.com/Carolynshexiu/AI-ML-in-5G-Challenge.github.io/assets/162329150/19005290-7d84-45cc-b252-d1bab804dd62)
 
-# ITU AI/ML in 5G Challenge
-Since its inception in 2020, the ITU AI/ML in 5G Challenge has annually convened a diverse community of innovators, encompassing students and professionals from across the globe, to explore and address the cutting-edge challenges of integrating AI and ML technologies into 5G and emerging 6G networks. Through these competitions, the Challenge has become instrumental in driving forward the integration of advanced technologies in communication networks. Below are the various problem statements hosted since 2020;
+The ITU AI/ML in 5G Challenge offers carefully curated problem statements, a mix of real-world and simulated data, technical webinars, mentoring, and hands-on sessions. Teams participating in the Challenge enable, create, train and deploy ML models for communication networks. This enables participants to not only showcase their talent, test their concepts on real data and real-world problems, and compete for global recognition including prize money and certificates, but also enter the world of ITU standards by mapping their solutions to our specifications.
 
 <h2>Challenge themes and problem statements</h2>
 <p><a href="https://aiforgood.itu.int/about-ai-for-good/aiml-in-5g-challenge/">AI/ML in 5G Challenge</a></p>
-<ul>   
+<ul>
+Since its inception in 2020, the ITU AI/ML in 5G Challenge has annually convened a diverse community of innovators, encompassing students and professionals from across the globe, to explore and address the cutting-edge challenges of integrating AI and ML technologies into 5G and emerging 6G networks. Through these competitions, the Challenge has become instrumental in driving forward the integration of advanced technologies in communication networks. Below are the various problem statements hosted since 2020;
+
 <details>
   <summary>2023</summary>
   <ul>
