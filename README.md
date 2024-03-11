@@ -153,7 +153,9 @@ tiny Machine Learning (ML) field involves applying machine learning to small, po
 </ul>
 <p><a href="https://aiforgood.itu.int/about-ai-for-good/ai-for-fusion-energy-challenge/">AI for Fusion Energy Challenge</a></p>
 <ul>
-  
+
+Within the IAEA Coordinated Research Project on AI for Fusion, this AI for Good Challenge aims to provide a platform for collaboratively explore the potential of ML in enabling predictive modelling for fusion energy systems. Through this Challenge, participants will use data from three distinct fusion devices called “tokamaks” (Alcator C-Mod, J-TEXT, and HL-2A) to develop a cross-machine disruption prediction model using ML, with strong generalization capabilities. Participants will acquire hands-on experience in AI/ML in areas relevant to fusion energy science and compete for prizes, recognition, and certificates. We have one problem statement for this category below: 
+
 <details>
   <summary>2023</summary>
   <ul>
