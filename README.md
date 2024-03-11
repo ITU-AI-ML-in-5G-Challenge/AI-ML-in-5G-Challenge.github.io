@@ -105,8 +105,7 @@ Since its inception in 2020, the ITU AI/ML in 5G Challenge has annually convened
 <li><p><a href="https://zindi.africa/competitions/geo-ai-challenge-for-cropland-mapping-with-satellite-imagery">6. GeoAI Challenge for Cropland Mapping</a>---<strong> curated by UNODC, FAO</strong></p></li>
 <li><p><a href="https://zindi.africa/competitions/geo-ai-challenge-for-landslide-susceptibility-mapping">5. GeoAI Challenge for Landslide Susceptibility Mapping</a>---<strong> curated by GEOlab at Polytechnic di Milano</strong>></p></li 
   </ul>
-</details>
-  
+</details> 
 <details>
   <summary>2022</summary> 
   <ul>
