@@ -14,25 +14,25 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/83">62.AI/ML for 5G-Energy Consumption Modelling</a>---<strong>curated by Huawei</strong></p></li>
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/63">61. Depth Map Estimation in 6G mmWave systems</a>---<strong>curated by NIST</strong></p></li>
 <li><p><a href="https://zindi.africa/competitions/fault-impact-analysis-towards-service-oriented-network-operation-maintenance/data">60. Fault Impact Analysis: Towards Service-Oriented Network Operation & Maintenance</a>---<strong>curated by Huawei</strong></p></li>
-<li><p><a href="https://bnn.upc.edu/challenge/gnnet2023/">59. Graph Neural Networking Challenge 2023 - Creating a Network Digital Twin with Real Network Data</a>---<strong>curated by BNN-UPC</strong></li></p>  
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/81">58. Intrusion and Vulnerability Detection in Software-Defined Networks (SDN)</a>---<strong>curated by ULAK Comm.</strong></li></p>  
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/80">57. Multi-environment automotive QoS prediction</a>---<strong>curated by Fraunhofer HHI</strong></li></p>  
-<li><p><a href="https://zindi.africa/competitions/network-traffic-scenario-prediction-challenge">56. Network Traffic Scenario Prediction Challenge</a>---<strong>curated by ZTE</strong></li></p>  
-<li><p><a href="https://zindi.africa/competitions/qos-prediction-challenge">55. QoS Prediction Challenge</a>---<strong>curated by Fraunhofer HHI</strong></li></p>  
-<li><p><a href="https://zindi.africa/competitions/title-extraction-in-lecture-slides-challenge">53. Title Extraction in Lecture Slides Challenge</a>---<strong>curated by ITU</strong></li></p>  
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/84">53. Network failure classification model using network digital twin</a>---<strong>curated by KDDI</strong></li></p>  
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/90">52. Multi Modal V2V Beam Prediction Challenge 2023</a>---<strong>curated by Wireless Intelligence Lab - Arizona State University</strong></li></p>  
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/89">51. 3D Location Estimation Using RSSI of Wireless LAN</a>---<strong>curated by RISING - JAPAN</strong></li></p>  
-<li><p><a href="https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1024/Documents/Session%202/Vishnu%20Ram.pdf">50. Build-a-thon 2023</a>---<strong>curated by ITU Focus Group on Autonomous Networks (FG-AN)</strong></li></p>  
+<li><p><a href="https://bnn.upc.edu/challenge/gnnet2023/">59. Graph Neural Networking Challenge 2023 - Creating a Network Digital Twin with Real Network Data</a>---<strong>curated by BNN-UPC</strong></p></li>
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/81">58. Intrusion and Vulnerability Detection in Software-Defined Networks (SDN)</a>---<strong>curated by ULAK Comm.</strong></p></li>
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/80">57. Multi-environment automotive QoS prediction</a>---<strong>curated by Fraunhofer HHI</strong></p></li> 
+<li><p><a href="https://zindi.africa/competitions/network-traffic-scenario-prediction-challenge">56. Network Traffic Scenario Prediction Challenge</a>---<strong>curated by ZTE</strong></p></li> 
+<li><p><a href="https://zindi.africa/competitions/qos-prediction-challenge">55. QoS Prediction Challenge</a>---<strong>curated by Fraunhofer HHI</strong></p></li>
+<li><p><a href="https://zindi.africa/competitions/title-extraction-in-lecture-slides-challenge">53. Title Extraction in Lecture Slides Challenge</a>---<strong>curated by ITU</strong></p></li>
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/84">53. Network failure classification model using network digital twin</a>---<strong>curated by KDDI</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/90">52. Multi Modal V2V Beam Prediction Challenge 2023</a>---<strong>curated by Wireless Intelligence Lab - Arizona State University</strong></p></li>  
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/89">51. 3D Location Estimation Using RSSI of Wireless LAN</a>---<strong>curated by RISING - JAPAN</strong></p></li>  
+<li><p><a href="https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1024/Documents/Session%202/Vishnu%20Ram.pdf">50. Build-a-thon 2023</a>---<strong>curated by ITU Focus Group on Autonomous Networks (FG-AN)</strong></p></li> 
   </ul>
 </details>
   
 <details>
   <summary>2022</summary>
   <ul>
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/68">49. BYOC: Build your own Closed loop</a>---<strong>curated by ITU Focus Group Autonomous Networks (FG-AN)</strong></p> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/73">48. Classification of Home Network Users to Improve User Experience</a>---<strong>curated by ZTE</strong></li></p> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/63">47. Depth Map Estimation in 6G mmWave systems</a>---<strong>curated by NIST</strong></li></p> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/68">49. BYOC: Build your own Closed loop</a>---<strong>curated by ITU Focus Group Autonomous Networks (FG-AN)</strong></p></li>
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/73">48. Classification of Home Network Users to Improve User Experience</a>---<strong>curated by ZTE</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/63">47. Depth Map Estimation in 6G mmWave systems</a>---<strong>curated by NIST</strong></p></li>
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/60">46. Federated Traffic Prediction for 5G and Beyond</a>---<strong>curated by CTTC (Centre Tecnològic de Telecomunicacions de Catalunya)</strong></li></p> 
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/69">45. Graph Neural Networking Challenge 2022: Improving Network Digital Twins through Data-centric AI</a>---<strong>curated by BNN-UPC</strong></li></p> 
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/62">44. I/Q-based Beam Classification with the DeepBeam Dataset</a>---<strong>curated by Northeastern University</strong></li></p> 
