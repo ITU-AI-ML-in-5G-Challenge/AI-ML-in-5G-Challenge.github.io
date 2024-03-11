@@ -46,6 +46,7 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/67">36. Synthetic Observability Data Generation using GANs</a>---<strong>curated by LF Networking</strong></li></p> 
   </ul>
 </details>
+
 <details>
   <summary>2021</summary>
   <ul>
@@ -65,6 +66,7 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/38">22. WALDO (Wireless Artificial intelligence Location DetectiOn): sensing using mmWave communications and ML.</a>---<strong>curated by NIST</strong></li></p> 
   </ul>
 </details>
+
 <details>
   <summary>2020</summary>  
   <ul>
@@ -92,6 +94,7 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
   </ul>
 </details>
 </ul>
+
 <p><a href="https://aiforgood.itu.int/about-ai-for-good/geoai-challenge">GeoAI Challenge</a></p>
 <ul>
 <details> 
@@ -104,6 +107,7 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 <li><p><a href="https://zindi.africa/competitions/geo-ai-challenge-for-landslide-susceptibility-mapping">5. GeoAI Challenge for Landslide Susceptibility Mapping</a>---<strong> curated by GEOlab at Polytechnic di Milano</strong></li></p> 
   </ul>
 </details>
+  
 <details>
   <summary>2022</summary> 
   <ul>
@@ -114,14 +118,17 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
   </ul>
 </details>
 </ul>
+
 <p><a href="https://aiforgood.itu.int/about-ai-for-good/tinyml-challenge/">TinyML Challenge</a></p> 
 <ul>
+  
  <details>
   <summary>2024</summary>
  <ul>
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/91">5. Next-Gen tinyML Smart Weather Station Challenge</a>---<strong> curated by CSEM</strong></li></p> 
  </ul>
 </details>
+
   <details>
   <summary>2023</summary>
   <ul>
@@ -130,6 +137,7 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/88">2. Scalable and High-Performance TinyML Solutions for Wildlife Monitoring</a>---<strong> curated by ITU</strong></li></p> 
   </ul>
 </details>
+
 <details>
   <summary>2022</summary>
   <ul>
@@ -139,6 +147,7 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 </ul>
 <p><a href="https://aiforgood.itu.int/about-ai-for-good/ai-for-fusion-energy-challenge/">AI for Fusion Energy Challenge</a></p>
 <ul>
+  
 <details>
   <summary>2023</summary>
   <ul>
