@@ -96,6 +96,9 @@ Since its inception in 2020, the ITU AI/ML in 5G Challenge has annually convened
 
 <p><a href="https://aiforgood.itu.int/about-ai-for-good/geoai-challenge">GeoAI Challenge</a></p>
 <ul>
+
+ITU GeoAI Challenge is a pioneering competition focused on leveraging artificial intelligence (AI) and machine learning (ML) to tackle real-world geospatial issues, particularly those aligned with the UN Sustainable Development Goals (SDGs). Beyond competing for prizes and recognition, participants gain valuable hands-on experience in AI/ML, directly contributing to solving critical SDG-related challenges. The GeoAI Challenge embodies a collaborative effort to innovate and apply geospatial intelligence towards a sustainable future. Below are the various problem statements hosted since 2022;
+  
 <details> 
   <summary>2023</summary>
   <ul>
