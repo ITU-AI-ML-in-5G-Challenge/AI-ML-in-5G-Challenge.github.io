@@ -11,9 +11,9 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 <details>
   <summary>2023</summary>
   <ul>
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/83">62.AI/ML for 5G-Energy Consumption Modelling</a>---<strong>curated by Huawei</strong></p>
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/63">61. Depth Map Estimation in 6G mmWave systems</a>---<strong>curated by NIST</strong></li></p>
-<li><p><a href="https://zindi.africa/competitions/fault-impact-analysis-towards-service-oriented-network-operation-maintenance/data">60. Fault Impact Analysis: Towards Service-Oriented Network Operation & Maintenance</a>---<strong>curated by Huawei</strong></li></p>
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/83">62.AI/ML for 5G-Energy Consumption Modelling</a>---<strong>curated by Huawei</strong></p></li>
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/63">61. Depth Map Estimation in 6G mmWave systems</a>---<strong>curated by NIST</strong></p></li>
+<li><p><a href="https://zindi.africa/competitions/fault-impact-analysis-towards-service-oriented-network-operation-maintenance/data">60. Fault Impact Analysis: Towards Service-Oriented Network Operation & Maintenance</a>---<strong>curated by Huawei</strong></p></li>
 <li><p><a href="https://bnn.upc.edu/challenge/gnnet2023/">59. Graph Neural Networking Challenge 2023 - Creating a Network Digital Twin with Real Network Data</a>---<strong>curated by BNN-UPC</strong></li></p>  
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/81">58. Intrusion and Vulnerability Detection in Software-Defined Networks (SDN)</a>---<strong>curated by ULAK Comm.</strong></li></p>  
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/80">57. Multi-environment automotive QoS prediction</a>---<strong>curated by Fraunhofer HHI</strong></li></p>  
