@@ -26,6 +26,7 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 <li><p><a href="https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1024/Documents/Session%202/Vishnu%20Ram.pdf">50. Build-a-thon 2023</a>---<strong>curated by ITU Focus Group on Autonomous Networks (FG-AN)</strong></li></p>  
   </ul>
 </details>
+  
 <details>
   <summary>2022</summary>
   <ul>
