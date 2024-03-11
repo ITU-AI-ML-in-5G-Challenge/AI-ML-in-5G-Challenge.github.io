@@ -79,8 +79,8 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 <li>12. ML5G-PHY -Beam-Selection: Machine Learning Applied to the Physical Layer of Millimeter-Wave MIMO Sytems---<strong>curated by UFPA</strong></li>
 <li>11. ML5G-PHY- Channel Estimation @NCSU: Machine Learning Applied to the Physical Layer of Millimeter-Wave MIMO Systems at North Carolina State University---<strong> curated by NC State University</strong></li>
 <li><p><a href="https://sites.google.com/view/iitd5g/challenge-problems/privacy-preserving-aiml-in-5g-networks-for-healthcare-applications">10. Network State Estimation by Analyzing Raw Video Data</a></p> ---<strong> curated by NEC</strong></li>
-<li>9. Network topology optimization</a></p> ---<strong> curated by China Mobile</strong></li>
-<li>8. Out of Service(OOS) Alarm Prediction of 4/5G Network Base Station</a></p> ---<strong> curated by China Mobile</strong></li>
+<li>9. Network topology optimization ---<strong> curated by China Mobile</strong></li>
+<li>8. Out of Service(OOS) Alarm Prediction of 4/5G Network Base Station ---<strong> curated by China Mobile</strong></li>
 <li><p><a href="https://sites.google.com/view/iitd5g/challenge-problems/privacy-preserving-aiml-in-5g-networks-for-healthcare-applications">7. Privacy Preserving AI/ML in 5G networks for healthcare applications</a></p> ---<strong> curated by C-DOT, IIT/Delhi</strong></li>
 <li><p><a href="https://www.itu.int/en/ITU-T/AI/challenge/2020/Pages/Turkcell.aspx">6. Using Weather Info for Radio Link Failure Prediction Challenge</a></p> ---<strong> curated by Turkcell</strong></li>
 <li><p><a href="https://sites.google.com/view/iitd5g/challenge-problems/shared-experience-using-5g-ai-3d-augmented-virtual-reality">5. Shared Experience Using 5G+AI (3D Augmented + Virtual Reality)</a></p> ---<strong> curated by Hike, IIT/Delhi</strong></li>
