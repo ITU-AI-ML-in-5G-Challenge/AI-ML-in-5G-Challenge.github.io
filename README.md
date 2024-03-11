@@ -6,6 +6,7 @@ The ITU AI/ML in 5G Challenge offers carefully curated problem statements, a mix
 <h2>Challenge themes and problem statements</h2>
 <p><a href="https://aiforgood.itu.int/about-ai-for-good/aiml-in-5g-challenge/">AI/ML in 5G Challenge</a></p>
 <ul>
+  
 Since its inception in 2020, the ITU AI/ML in 5G Challenge has annually convened a diverse community of innovators, encompassing students and professionals from across the globe, to explore and address the cutting-edge challenges of integrating AI and ML technologies into 5G and emerging 6G networks. Through these competitions, the Challenge has become instrumental in driving forward the integration of advanced technologies in communication networks. Below are the various problem statements hosted since 2020;
 
 <details>
@@ -123,7 +124,10 @@ ITU GeoAI Challenge is a pioneering competition focused on leveraging artificial
 </ul>
 <p><a href="https://aiforgood.itu.int/about-ai-for-good/tinyml-challenge/">TinyML Challenge</a></p> 
 <ul>
-  
+
+
+tiny Machine Learning (ML) field involves applying machine learning to small, power-constrained devices and embedded systems. It encompasses hardware, algorithms, and software capable of on-device sensor data analytics at very low power, enabling various always-on applications. ITU and industry partners have hosted the tinyML Challenge since 2022, aiming to develop a cost-effective, low-power, and reliable smart weather station without mechanical moving parts. The Challenge also explores scalable and high-performance tinyML solutions for crop disease detection and wildlife monitoring. Problem statements are listed below:
+
  <details>
   <summary>2024</summary>
  <ul>
