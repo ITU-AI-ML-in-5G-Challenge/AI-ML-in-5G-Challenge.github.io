@@ -11,7 +11,7 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 <details>
   <summary>2023</summary>
   <ul>
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/83">62.AI/ML for 5G-Energy Consumption Modelling</a>---<strong>curated by Huawei</strong></li></p>
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/83">62.AI/ML for 5G-Energy Consumption Modelling</a>---<strong>curated by Huawei</strong></p>
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/63">61. Depth Map Estimation in 6G mmWave systems</a>---<strong>curated by NIST</strong></li></p>
 <li><p><a href="https://zindi.africa/competitions/fault-impact-analysis-towards-service-oriented-network-operation-maintenance/data">60. Fault Impact Analysis: Towards Service-Oriented Network Operation & Maintenance</a>---<strong>curated by Huawei</strong></li></p>
 <li><p><a href="https://bnn.upc.edu/challenge/gnnet2023/">59. Graph Neural Networking Challenge 2023 - Creating a Network Digital Twin with Real Network Data</a>---<strong>curated by BNN-UPC</strong></li></p>  
@@ -30,7 +30,7 @@ Since the start of the Challenge in 2020, we have hosted more than xx competitio
 <details>
   <summary>2022</summary>
   <ul>
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/68">49. BYOC: Build your own Closed loop</a>---<strong>curated by ITU Focus Group Autonomous Networks (FG-AN)</strong></li></p> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/68">49. BYOC: Build your own Closed loop</a>---<strong>curated by ITU Focus Group Autonomous Networks (FG-AN)</strong></p> 
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/73">48. Classification of Home Network Users to Improve User Experience</a>---<strong>curated by ZTE</strong></li></p> 
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/63">47. Depth Map Estimation in 6G mmWave systems</a>---<strong>curated by NIST</strong></li></p> 
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/60">46. Federated Traffic Prediction for 5G and Beyond</a>---<strong>curated by CTTC (Centre Tecnològic de Telecomunicacions de Catalunya)</strong></li></p> 
