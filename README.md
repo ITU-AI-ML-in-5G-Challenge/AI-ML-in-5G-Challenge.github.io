@@ -126,7 +126,7 @@ ITU GeoAI Challenge is a pioneering competition focused on leveraging artificial
 <ul>
 
 
-tiny Machine Learning (ML) field involves applying machine learning to small, power-constrained devices and embedded systems. It encompasses hardware, algorithms, and software capable of on-device sensor data analytics at very low power, enabling various always-on applications. ITU and industry partners have hosted the tinyML Challenge since 2022, aiming to develop a cost-effective, low-power, and reliable smart weather station without mechanical moving parts. The Challenge also explores scalable and high-performance tinyML solutions for crop disease detection and wildlife monitoring. Problem statements are listed below:
+tiny Machine Learning (ML) field involves applying machine learning to small, power-constrained devices and embedded systems. It encompasses hardware, algorithms, and software capable of on-device sensor data analytics at very low power, enabling various always-on applications. ITU and industry partners have hosted the tinyML Challenge since 2022, aiming to develop a cost-effective, low-power, and reliable smart weather station without mechanical moving parts. The Challenge also explores scalable and high-performance tinyML solutions uses cases relevant to SDGs. Problem statements are listed below:
 
  <details>
   <summary>2024</summary>
@@ -154,7 +154,7 @@ tiny Machine Learning (ML) field involves applying machine learning to small, po
 <p><a href="https://aiforgood.itu.int/about-ai-for-good/ai-for-fusion-energy-challenge/">AI for Fusion Energy Challenge</a></p>
 <ul>
 
-Within the IAEA Coordinated Research Project on AI for Fusion, this AI for Good Challenge aims to provide a platform for collaboratively explore the potential of ML in enabling predictive modelling for fusion energy systems. Through this Challenge, participants will use data from three distinct fusion devices called “tokamaks” (Alcator C-Mod, J-TEXT, and HL-2A) to develop a cross-machine disruption prediction model using ML, with strong generalization capabilities. Participants will acquire hands-on experience in AI/ML in areas relevant to fusion energy science and compete for prizes, recognition, and certificates. We have one problem statement for this category below: 
+The Challenge explored the potential of ML in enabling predictive modelling for fusion energy systems. Through this Challenge, participants developed a cross-machine disruption prediction model using ML, with strong generalization capabilities. One problem statement was offered in 2023 below:
 
 <details>
   <summary>2023</summary>
