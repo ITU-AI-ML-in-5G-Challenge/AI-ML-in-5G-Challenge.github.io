@@ -11,9 +11,8 @@ Since the start of the Challenge in 2020, we have hosted more than 77 competitio
   
 Since its inception in 2020, the ITU AI/ML in 5G Challenge has annually convened a diverse community of innovators, encompassing students and professionals from across the globe, to explore and address the cutting-edge challenges of integrating AI and ML technologies into 5G and emerging 6G networks. Through these competitions, the Challenge has become instrumental in driving forward the integration of advanced technologies in communication networks. Below are the various problem statements hosted since 2020;
 
-<details>
-  <summary>2023</summary>
-  <ul>
+
+<h3>2023</h3>
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/83">62.AI/ML for 5G-Energy Consumption Modelling</a>---<strong>curated by Huawei</strong></p></li>
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/63">61. Depth Map Estimation in 6G mmWave systems</a>---<strong>curated by NIST</strong></p></li>
 <li><p><a href="https://zindi.africa/competitions/fault-impact-analysis-towards-service-oriented-network-operation-maintenance/data">60. Fault Impact Analysis: Towards Service-Oriented Network Operation & Maintenance</a>---<strong>curated by Huawei</strong></p></li>
@@ -27,12 +26,8 @@ Since its inception in 2020, the ITU AI/ML in 5G Challenge has annually convened
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/90">52. Multi Modal V2V Beam Prediction Challenge 2023</a>---<strong>curated by Wireless Intelligence Lab - Arizona State University</strong></p></li>  
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/89">51. 3D Location Estimation Using RSSI of Wireless LAN</a>---<strong>curated by RISING - JAPAN</strong></p></li>  
 <li><p><a href="https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1024/Documents/Session%202/Vishnu%20Ram.pdf">50. Build-a-thon 2023</a>---<strong>curated by ITU Focus Group on Autonomous Networks (FG-AN)</strong></p></li> 
-  </ul>
-</details>
-  
-<details>
-  <summary>2022</summary>
-  <ul>
+
+<h3>2022</h3>
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/68">49. BYOC: Build your own Closed loop</a>---<strong>curated by ITU Focus Group Autonomous Networks (FG-AN)</strong></p></li>
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/73">48. Classification of Home Network Users to Improve User Experience</a>---<strong>curated by ZTE</strong></p></li> 
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/63">47. Depth Map Estimation in 6G mmWave systems</a>---<strong>curated by NIST</strong></p></li>
@@ -47,12 +42,9 @@ Since its inception in 2020, the ITU AI/ML in 5G Challenge has annually convened
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/70">38. Non-linear Power Amplifier Behavioral Modeling to achieve higher energy efficiency in 5G RAN</a>---<strong>curated by ZTE</strong></p></li> 
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/74">37. "Slidin' videos": Slide Transition Detection and Title Extraction in Lecture Videos</a>---<strong>curated by ITU</strong></p></li> 
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/67">36. Synthetic Observability Data Generation using GANs</a>---<strong>curated by LF Networking</strong></p></li> 
-  </ul>
-</details>
 
-<details>
-  <summary>2021</summary>
-  <ul>
+
+<h3>2021</h3>
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/43">35. Combinatorial Optimization Challenge: Delivery route optimization</a>---<strong>curated by ZTE</strong></p></li> 
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/37">34. Federated Learning for Spatial Reuse in a multi-BSS (Basic Service Set) scenario</a>---<strong>curated by UPF</strong></p></li> 
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/42">33. Forecasting Model for Service Allocation Network Using Traffic Recognition</a>---<strong>curated by SPbSUT</strong></p></li> 
@@ -67,12 +59,8 @@ Since its inception in 2020, the ITU AI/ML in 5G Challenge has annually convened
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/35">24. Radio Link Failure Prediction</a>---<strong>curated by Turkcell</strong></p></li> 
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/41">23. RF-Sensor Based Human Activity Recognition</a>---<strong>curated by The University of Alabama</strong></p></li> 
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/38">22. WALDO (Wireless Artificial intelligence Location DetectiOn): sensing using mmWave communications and ML.</a>---<strong>curated by NIST</strong></p></li> 
-  </ul>
-</details>
 
-<details>
-  <summary>2020</summary>  
-  <ul>
+<h3>2020</h3>
 <li><p><a href="https://sites.google.com/view/iitd5g/challenge-problems/5g-ai-smart-transportation">21. 5G+AI (Smart Transportation)</a>---<strong>curated by JNU,IIT/Delhi</strong></p></li> 
 <li>20. 5G+AI+AR (Zhejiang Division)---<strong> curated by China Unicom</strong></li>
 <li>19. Analysis on route information failure in IP core networks by NFV-based test environment ---<strong>curated by KDDI</strong> </li>
@@ -94,8 +82,7 @@ Since its inception in 2020, the ITU AI/ML in 5G Challenge has annually convened
 <li><p><a href="https://bnn.upc.edu/challenge/gnnet2020/">3. Graph Neural Networking Challenge</a>---<strong> curated by BNN, UPC</strong></p></li> 
 <li><p><a href="https://sites.google.com/view/iitd5g/challenge-problems/improving-video-conferencing-and-collaboration">2. Improving experience and enhancing immersiveness of Video conferencing and collaboration</a>---<strong> curated by Dview</strong></p></li> 
 <li><p><a href="https://sites.google.com/view/iitd5g/challenge-problems/5g-mlai-dynamic-spectrum-access">1. 5G+ML/AI (Dynamic Spectrum Access)</a>---<strong> curated by IITD</strong></p></li>  
-  </ul>
-</details>
+
 </ul>
 
 <p><a href="https://aiforgood.itu.int/about-ai-for-good/geoai-challenge">GeoAI Challenge</a></p>
@@ -103,26 +90,20 @@ Since its inception in 2020, the ITU AI/ML in 5G Challenge has annually convened
 
 ITU GeoAI Challenge is a pioneering competition focused on leveraging artificial intelligence (AI) and machine learning (ML) to tackle real-world geospatial issues, particularly those aligned with the UN Sustainable Development Goals (SDGs). Beyond competing for prizes and recognition, participants gain valuable hands-on experience in AI/ML, directly contributing to solving critical SDG-related challenges. The GeoAI Challenge embodies a collaborative effort to innovate and apply geospatial intelligence towards a sustainable future. Below are the various problem statements hosted since 2022;
   
-<details> 
-  <summary>2023</summary>
-  <ul>
+<h3>2023</h3>
 <li><p><a href="https://zindi.africa/competitions/geoai-challege-location-mention-recognition-from-social-media">9. GeoAI Challenge Location Mention Recognition from Social Media</a>--- <strong> curated by QCRI, QU, Qen Labs Inc.</strong></p></li> 
 <li><p><a href="https://zindi.africa/competitions/geoai-challenge-estimating-soil-parameters-from-hyperspectral-images">8. GeoAI Challenge Estimating Soil Parameters from Hyperspectral Images</a>---<strong> curated by ESA (European Space Agency)</strong></p></li> 
 <li><p><a href="https://zindi.africa/competitions/geoai-challenge-for-air-pollution-susceptibility-mapping">7. GeoAI Challenge for Air Pollution Susceptibility Mapping</a>---<strong> curated by   GEOlab at Polytechnic di Milano</strong></p></li> 
 <li><p><a href="https://zindi.africa/competitions/geo-ai-challenge-for-cropland-mapping-with-satellite-imagery">6. GeoAI Challenge for Cropland Mapping</a>---<strong> curated by UNODC, FAO</strong></p></li>
 <li><p><a href="https://zindi.africa/competitions/geo-ai-challenge-for-landslide-susceptibility-mapping">5. GeoAI Challenge for Landslide Susceptibility Mapping</a>---<strong> curated by GEOlab at Polytechnic di Milano</strong></p></li> 
-  </ul>
-</details> 
+
   
-<details>
-  <summary>2022</summary> 
-  <ul>
+<h3>2022</h3>
 <li>4.IndabaX Tanzania: Location Mention Recognition from Social Media Crisis-related Text---<strong> curated by ITU and Qatar University</strong></li>
 <li><p><a href="https://geoaichallenge.aiforgood.itu.int/match/matchitem/61">3. Cropland mapping with satellite imagery</a>---<strong> curated by FAO</strong></p></li> 
 <li><p><a href="https://geoaichallenge.aiforgood.itu.int/match/matchitem/64">2. Location Mention Recognition from Social Media Crisis-related Text</a>---<strong> curated by Qatar Computing Research Institute (QCRI, HBKU), and Qatar University (QU)</strong></p></li> 
 <li><p><a href="https://geoaichallenge.aiforgood.itu.int/match/matchitem/62">1. School mapping with big data</a>---<strong> curated by UNICEF</strong></p></li> 
-  </ul>
-</details>
+
 </ul>
 <p><a href="https://aiforgood.itu.int/about-ai-for-good/tinyml-challenge/">TinyML Challenge</a></p> 
 <ul>
@@ -130,39 +111,27 @@ ITU GeoAI Challenge is a pioneering competition focused on leveraging artificial
 
 tiny Machine Learning (ML) field involves applying machine learning to small, power-constrained devices and embedded systems. It encompasses hardware, algorithms, and software capable of on-device sensor data analytics at very low power, enabling various always-on applications. ITU and industry partners have hosted the tinyML Challenge since 2022, aiming to develop a cost-effective, low-power, and reliable smart weather station without mechanical moving parts. The Challenge also explores scalable and high-performance tinyML solutions uses cases relevant to SDGs. Problem statements are listed below:
 
- <details>
-  <summary>2024</summary>
- <ul>
+<h3>2024</h3>
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/91">5. Next-Gen tinyML Smart Weather Station Challenge</a>---<strong> curated by CSEM</strong></p></li> 
- </ul>
-</details>
 
-  <details>
-  <summary>2023</summary>
-  <ul>
+
+<h3>2023</h3>
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/85?_ga=2.109206273.581721846.1709562945-2133877621.1709562945">4. Next-Gen tinyML Smart Weather Station</a>---<strong> curated by CSEM, tinyML Foundation</strong></p></li> 
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/87">3. Scalable and High-Performance TinyML Solutions for Plant Disease Detection</a>---<strong> curated by ITU</strong></p></li> 
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/88">2. Scalable and High-Performance TinyML Solutions for Wildlife Monitoring</a>---<strong> curated by ITU</strong></p></li> 
-  </ul>
-</details>
 
-<details>
-  <summary>2022</summary>
-  <ul>
+
+<h3>2022</h3>
     <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/71">1. Smart Weather Station Challenge</a>---<strong>curated by TinyML Foundation</strong></p></li> 
-  </ul>
-</details>
+
 </ul>
 <p><a href="https://aiforgood.itu.int/about-ai-for-good/ai-for-fusion-energy-challenge/">AI for Fusion Energy Challenge</a></p>
 <ul>
 
 The Challenge explored the potential of ML in enabling predictive modelling for fusion energy systems. Through this Challenge, participants developed a cross-machine disruption prediction model using ML, with strong generalization capabilities. One problem statement was offered in 2023 below:
 
-<details>
-  <summary>2023</summary>
-  <ul>
+<h3>2023</h3>
     <li><p><a href="https://zindi.africa/competitions/multi-machine-disruption-prediction-challenge">1. Multi-Machine Disruption Prediction Challenge for Fusion Energy</a>---<strong>curated by ITU, IAEA, PSFC, HUAZHONG UNIVERSITY OF SCIENCE AND TECHNOLOGY</strong></p></li>
-  </ul>
-</details>
+
 </ul>
 
