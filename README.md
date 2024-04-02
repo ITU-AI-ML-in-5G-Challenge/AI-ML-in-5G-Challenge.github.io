@@ -28,37 +28,38 @@ Since its inception in 2020, the ITU AI/ML in 5G Challenge has annually convened
 <li><p><a href="https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1024/Documents/Session%202/Vishnu%20Ram.pdf">50. Build-a-thon 2023</a>---<strong>curated by ITU Focus Group on Autonomous Networks (FG-AN)</strong></p></li> 
 
 <h3>2022</h3>
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/68">49. BYOC: Build your own Closed loop</a>---<strong>curated by ITU Focus Group Autonomous Networks (FG-AN)</strong></p></li>
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/73">48. Classification of Home Network Users to Improve User Experience</a>---<strong>curated by ZTE</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/63">47. Depth Map Estimation in 6G mmWave systems</a>---<strong>curated by NIST</strong></p></li>
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/60">46. Federated Traffic Prediction for 5G and Beyond</a>---<strong>curated by CTTC (Centre Tecnològic de Telecomunicacions de Catalunya)</strong></p></li>
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/69">45. Graph Neural Networking Challenge 2022: Improving Network Digital Twins through Data-centric AI</a>---<strong>curated by BNN-UPC</strong></p></li>
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/62">44. I/Q-based Beam Classification with the DeepBeam Dataset</a>---<strong>curated by Northeastern University</strong></p></li>
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/65">43. Location Estimation Using RSSI of Wireless LAN in NLoS Environment</a>---<strong>curated by RISING</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/66">42. Machine Learning for Throughput Prediction in Coordinated IEEE 802.11be Wi-Fi networks</a>---<strong>curated by UPF</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/72">41. Multi Modal Beam Prediction Challenge 2022: Towards Generalization</a>---<strong>curated by Arizona State University</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/64">40. Network failure prediction on CNFs 5GC with Linux eBPF</a>---<strong>curated by KDDI</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/68">50. BYOC: Build your own Closed loop</a>---<strong>curated by ITU Focus Group Autonomous Networks (FG-AN)</strong></p></li>
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/73">49. Classification of Home Network Users to Improve User Experience</a>---<strong>curated by ZTE</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/63">48. Depth Map Estimation in 6G mmWave systems</a>---<strong>curated by NIST</strong></p></li>
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/60">47. Federated Traffic Prediction for 5G and Beyond</a>---<strong>curated by CTTC (Centre Tecnològic de Telecomunicacions de Catalunya)</strong></p></li>
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/69">46. Graph Neural Networking Challenge 2022: Improving Network Digital Twins through Data-centric AI</a>---<strong>curated by BNN-UPC</strong></p></li>
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/62">45. I/Q-based Beam Classification with the DeepBeam Dataset</a>---<strong>curated by Northeastern University</strong></p></li>
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/65">44. Location Estimation Using RSSI of Wireless LAN in NLoS Environment</a>---<strong>curated by RISING</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/66">43. Machine Learning for Throughput Prediction in Coordinated IEEE 802.11be Wi-Fi networks</a>---<strong>curated by UPF</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/72">42. Multi Modal Beam Prediction Challenge 2022: Towards Generalization</a>---<strong>curated by Arizona State University</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/64">41. Network failure prediction on CNFs 5GC with Linux eBPF</a>---<strong>curated by KDDI</strong></p></li> 
 <li><p><a href="https://zindi.africa/competitions/next-gen-wifi-throughput-prediction-challenge">39. Next-Gen WiFi Throughput Prediction Challenge</a>---<strong>curated by ITU, UPF</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/70">38. Non-linear Power Amplifier Behavioral Modeling to achieve higher energy efficiency in 5G RAN</a>---<strong>curated by ZTE</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/74">37. "Slidin' videos": Slide Transition Detection and Title Extraction in Lecture Videos</a>---<strong>curated by ITU</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/67">36. Synthetic Observability Data Generation using GANs</a>---<strong>curated by LF Networking</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/70">40. Non-linear Power Amplifier Behavioral Modeling to achieve higher energy efficiency in 5G RAN</a>---<strong>curated by ZTE</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/74">39. "Slidin' videos": Slide Transition Detection and Title Extraction in Lecture Videos</a>---<strong>curated by ITU</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/67">38. Synthetic Observability Data Generation using GANs</a>---<strong>curated by LF Networking</strong></p></li> 
 
 
 <h3>2021</h3>
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/43">35. Combinatorial Optimization Challenge: Delivery route optimization</a>---<strong>curated by ZTE</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/37">34. Federated Learning for Spatial Reuse in a multi-BSS (Basic Service Set) scenario</a>---<strong>curated by UPF</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/42">33. Forecasting Model for Service Allocation Network Using Traffic Recognition</a>---<strong>curated by SPbSUT</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/31">32. Graph Neural Networking Challenge 2021: Creating a Scalable Network Digital Twin</a>---<strong>curated by BNN-UPC</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/34">31. Lightning-Fast Modulation Classification with Hardware-Efficient Neural Networks</a>---<strong>curated by Xilinx</strong></p></li>
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/58">30. Location estimation using RSSI of wireless LAN</a>---<strong>curated by RISING</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/40">29. ML5G-PHY-Localization: Multidevice localization with mmWave signals in a factory environment</a>---<strong>curated by NC State University</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/39">28. ML5G-PHY-Reinforcement learning: scheduling and resource allocation</a>---<strong>curated by UFPA</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/33">27. Network anomaly detection based on logs</a>---<strong>curated by China Unicom</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/57">26. Network failure detection and root cause analysis in 5GC by NFV-based test environment</a>---<strong>curated by KDDI</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/45">25. Build-a-thon(PoC) Network resource allocation for emergency management based on closed loop analysis</a>---<strong>curated by ITU Focus Group on Autonomous Networks (FG-AN)</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/35">24. Radio Link Failure Prediction</a>---<strong>curated by Turkcell</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/41">23. RF-Sensor Based Human Activity Recognition</a>---<strong>curated by The University of Alabama</strong></p></li> 
-<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/38">22. WALDO (Wireless Artificial intelligence Location DetectiOn): sensing using mmWave communications and ML.</a>---<strong>curated by NIST</strong></p></li> 
+<li>38. Cross Layer user experience optimization – Radio link performance prediction---<strong>curated by China Mobile</strong></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/43">37. Combinatorial Optimization Challenge: Delivery route optimization</a>---<strong>curated by ZTE</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/37">36. Federated Learning for Spatial Reuse in a multi-BSS (Basic Service Set) scenario</a>---<strong>curated by UPF</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/42">35. Forecasting Model for Service Allocation Network Using Traffic Recognition</a>---<strong>curated by SPbSUT</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/31">34. Graph Neural Networking Challenge 2021: Creating a Scalable Network Digital Twin</a>---<strong>curated by BNN-UPC</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/34">33. Lightning-Fast Modulation Classification with Hardware-Efficient Neural Networks</a>---<strong>curated by Xilinx</strong></p></li>
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/58">32. Location estimation using RSSI of wireless LAN</a>---<strong>curated by RISING</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/40">31. ML5G-PHY-Localization: Multidevice localization with mmWave signals in a factory environment</a>---<strong>curated by NC State University</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/39">30. ML5G-PHY-Reinforcement learning: scheduling and resource allocation</a>---<strong>curated by UFPA</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/33">29. Network anomaly detection based on logs</a>---<strong>curated by China Unicom</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/57">28. Network failure detection and root cause analysis in 5GC by NFV-based test environment</a>---<strong>curated by KDDI</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/45">27. Build-a-thon(PoC) Network resource allocation for emergency management based on closed loop analysis</a>---<strong>curated by ITU Focus Group on Autonomous Networks (FG-AN)</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/35">26. Radio Link Failure Prediction</a>---<strong>curated by Turkcell</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/41">25. RF-Sensor Based Human Activity Recognition</a>---<strong>curated by The University of Alabama</strong></p></li> 
+<li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/38">24. WALDO (Wireless Artificial intelligence Location DetectiOn): sensing using mmWave communications and ML.</a>---<strong>curated by NIST</strong></p></li> 
 
 <h3>2020</h3>
 <li>23. Alarm and prevention for public health emergency based on telecom data---<strong>curated by China Unicom (Beijing Division)</strong></li>
