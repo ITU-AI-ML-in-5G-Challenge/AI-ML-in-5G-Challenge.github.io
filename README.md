@@ -45,7 +45,8 @@ Since its inception in 2020, the ITU AI/ML in 5G Challenge has annually convened
 
 
 <h3>2021</h3>
-<li>38. Cross Layer user experience optimization – Radio link performance prediction---<strong>curated by China Mobile</strong></li> 
+<li>39. Machine Learning for finding groups of BSSs (Basic Service Set) suitable for Coordinated Spatial Reuse---<strong>curated by UPF</strong></li> 
+<li>38. Cross Layer user experience optimization – Radio link performance prediction---<strong>curated by China Mobile</strong></li>
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/43">37. Combinatorial Optimization Challenge: Delivery route optimization</a>---<strong>curated by ZTE</strong></p></li> 
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/37">36. Federated Learning for Spatial Reuse in a multi-BSS (Basic Service Set) scenario</a>---<strong>curated by UPF</strong></p></li> 
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/42">35. Forecasting Model for Service Allocation Network Using Traffic Recognition</a>---<strong>curated by SPbSUT</strong></p></li> 
@@ -94,15 +95,14 @@ Since its inception in 2020, the ITU AI/ML in 5G Challenge has annually convened
 ITU GeoAI Challenge is a pioneering competition focused on leveraging artificial intelligence (AI) and machine learning (ML) to tackle real-world geospatial issues, particularly those aligned with the UN Sustainable Development Goals (SDGs). Beyond competing for prizes and recognition, participants gain valuable hands-on experience in AI/ML, directly contributing to solving critical SDG-related challenges. The GeoAI Challenge embodies a collaborative effort to innovate and apply geospatial intelligence towards a sustainable future. Below are the various problem statements hosted since 2022;
   
 <h3>2023</h3>
-<li><p><a href="https://zindi.africa/competitions/geoai-challege-location-mention-recognition-from-social-media">9. GeoAI Challenge Location Mention Recognition from Social Media</a>--- <strong> curated by QCRI, QU, Qen Labs Inc.</strong></p></li> 
-<li><p><a href="https://zindi.africa/competitions/geoai-challenge-estimating-soil-parameters-from-hyperspectral-images">8. GeoAI Challenge Estimating Soil Parameters from Hyperspectral Images</a>---<strong> curated by ESA (European Space Agency)</strong></p></li> 
-<li><p><a href="https://zindi.africa/competitions/geoai-challenge-for-air-pollution-susceptibility-mapping">7. GeoAI Challenge for Air Pollution Susceptibility Mapping</a>---<strong> curated by   GEOlab at Polytechnic di Milano</strong></p></li> 
-<li><p><a href="https://zindi.africa/competitions/geo-ai-challenge-for-cropland-mapping-with-satellite-imagery">6. GeoAI Challenge for Cropland Mapping</a>---<strong> curated by UNODC, FAO</strong></p></li>
-<li><p><a href="https://zindi.africa/competitions/geo-ai-challenge-for-landslide-susceptibility-mapping">5. GeoAI Challenge for Landslide Susceptibility Mapping</a>---<strong> curated by GEOlab at Polytechnic di Milano</strong></p></li> 
+<li><p><a href="https://zindi.africa/competitions/geoai-challege-location-mention-recognition-from-social-media">8. GeoAI Challenge Location Mention Recognition from Social Media</a>--- <strong> curated by QCRI, QU, Qen Labs Inc.</strong></p></li> 
+<li><p><a href="https://zindi.africa/competitions/geoai-challenge-estimating-soil-parameters-from-hyperspectral-images">7. GeoAI Challenge Estimating Soil Parameters from Hyperspectral Images</a>---<strong> curated by ESA (European Space Agency)</strong></p></li> 
+<li><p><a href="https://zindi.africa/competitions/geoai-challenge-for-air-pollution-susceptibility-mapping">6. GeoAI Challenge for Air Pollution Susceptibility Mapping</a>---<strong> curated by   GEOlab at Polytechnic di Milano</strong></p></li> 
+<li><p><a href="https://zindi.africa/competitions/geo-ai-challenge-for-cropland-mapping-with-satellite-imagery">5. GeoAI Challenge for Cropland Mapping</a>---<strong> curated by UNODC, FAO</strong></p></li>
+<li><p><a href="https://zindi.africa/competitions/geo-ai-challenge-for-landslide-susceptibility-mapping">4. GeoAI Challenge for Landslide Susceptibility Mapping</a>---<strong> curated by GEOlab at Polytechnic di Milano</strong></p></li> 
 
   
 <h3>2022</h3>
-<li>4.IndabaX Tanzania: Location Mention Recognition from Social Media Crisis-related Text---<strong> curated by ITU and Qatar University</strong></li>
 <li><p><a href="https://geoaichallenge.aiforgood.itu.int/match/matchitem/61">3. Cropland mapping with satellite imagery</a>---<strong> curated by FAO</strong></p></li> 
 <li><p><a href="https://geoaichallenge.aiforgood.itu.int/match/matchitem/64">2. Location Mention Recognition from Social Media Crisis-related Text</a>---<strong> curated by Qatar Computing Research Institute (QCRI, HBKU), and Qatar University (QU)</strong></p></li> 
 <li><p><a href="https://geoaichallenge.aiforgood.itu.int/match/matchitem/62">1. School mapping with big data</a>---<strong> curated by UNICEF</strong></p></li> 
