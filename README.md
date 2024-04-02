@@ -61,6 +61,8 @@ Since its inception in 2020, the ITU AI/ML in 5G Challenge has annually convened
 <li><p><a href="https://challenge.aiforgood.itu.int/match/matchitem/38">22. WALDO (Wireless Artificial intelligence Location DetectiOn): sensing using mmWave communications and ML.</a>---<strong>curated by NIST</strong></p></li> 
 
 <h3>2020</h3>
+<li>23. Alarm and prevention for public health emergency based on telecom data---<strong>curated by China Unicom (Beijing Division)</strong></li>
+<li>22. Core Network KPI index anomaly detection---<strong>curated by China Unicom (Shanghai Division)</strong></li>
 <li><p><a href="https://sites.google.com/view/iitd5g/challenge-problems/5g-ai-smart-transportation">21. 5G+AI (Smart Transportation)</a>---<strong>curated by JNU,IIT/Delhi</strong></p></li> 
 <li>20. 5G+AI+AR (Zhejiang Division)---<strong> curated by China Unicom</strong></li>
 <li>19. Analysis on route information failure in IP core networks by NFV-based test environment ---<strong>curated by KDDI</strong> </li>
